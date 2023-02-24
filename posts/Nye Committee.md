@@ -1,0 +1,1 @@
+Committee chaired in 1934 by Republican senator Gerald Nye to investigate the actions of munitions manufacturers to ensure they were not pushing the country towards a second great war for financial profit. The Nye Committee blamed weapons manufacturers, arms dealers, and bankers who loaned funds to the Allied Powers for the outbreak of World War I.

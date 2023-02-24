@@ -1,0 +1,1 @@
+The last major battle and amphibious assault in the Pacific theater of World War II. It was one of the costliest battles of the war for the U.S., resulting in 6,000 American casualties.

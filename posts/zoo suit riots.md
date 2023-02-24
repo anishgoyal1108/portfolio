@@ -1,0 +1,1 @@
+Series of riots in 1943 in Los Angeles, California, sparked by white hostility toward Mexican American teenagers who dressed in zoot suits — suits with long jackets with padded shoulders and baggy pants tapered at the bottom.

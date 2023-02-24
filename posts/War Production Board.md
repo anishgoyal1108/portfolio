@@ -1,0 +1,1 @@
+Board established in 1942 to oversee the economy during World War II. It was part of a larger effort to convert American industry to the production of war materials.

@@ -1,0 +1,1 @@
+Government office set up during World War II to promote patriotism and urge Americans to contribute to the war effort any way they could.

@@ -1,0 +1,1 @@
+This strategy, employed in the Pacific by the U.S. in World War II, directed American and Allied forces to avoid heavily fortified Japanese islands and concentrate on less heavily defended islands in preparation for a combined air, land, and sea invasion of Japan.

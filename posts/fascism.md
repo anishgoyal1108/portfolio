@@ -1,0 +1,1 @@
+a hyper-nationalistic ideology that promoted racial superiority and a strong, centralized government

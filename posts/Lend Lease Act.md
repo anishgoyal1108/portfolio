@@ -1,0 +1,1 @@
+Allowed the United States to lend or lease equipment to the UK, but without anything in return; circumvented the Neutrality Acts

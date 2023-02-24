@@ -1,0 +1,1 @@
+The policy of England and France that allowed the Nazis to annex Czechoslovak territory in exchange for Hitler promising not to take further land — a pledge he soon violated.

@@ -1,0 +1,1 @@
+1942 act passed after the attack on Pearl Harbor. It authorized the president to reorganize federal agencies any way he thought necessary to win the war.

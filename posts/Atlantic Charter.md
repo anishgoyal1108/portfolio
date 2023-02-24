@@ -1,0 +1,1 @@
+August 1941 agreement between Franklin Roosevelt and Winston Churchill that outlined potential war aims and cemented the relationship between the United States and Britain

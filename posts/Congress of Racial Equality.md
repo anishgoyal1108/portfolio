@@ -1,0 +1,1 @@
+An interracial organization founded in 1942 that directly protested against racial inequality in public accommodations.

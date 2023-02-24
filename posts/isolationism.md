@@ -1,0 +1,1 @@
+Informal policy stemming from the belief that the United States should not become involved with the affairs of other nations

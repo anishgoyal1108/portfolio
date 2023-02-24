@@ -1,0 +1,1 @@
+The Nazi regime’s genocidal effort to eradicate Europe’s Jewish population during World War II, which resulted in the death of 6 million Jews and millions of other “undesirables” — Slavs, Poles, Gypsies, homosexuals, the physically and mentally disabled, and Communists.

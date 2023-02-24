@@ -1,0 +1,1 @@
+Political allies during World War I consisting primarily of Great Britain, France, and Russia. Italy joined in 1915 and the United States in 1917.

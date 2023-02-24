@@ -1,0 +1,1 @@
+outlawed war as an instrument of national policy but proved unenforceable

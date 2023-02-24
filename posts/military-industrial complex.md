@@ -1,0 +1,1 @@
+The government-business alliance related to the military and national defense that developed out of World War II and greatly influenced future development of the U.S. economy.

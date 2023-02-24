@@ -1,0 +1,1 @@
+1938 agreement between Germany, Great Britain, and France, which allowed Germany to annex the Sudetenland, a western region of Czechoslovakia, in an agreement Germany would not acquire any more land afterwards. However, the following year German troops occupied the rest of Czechoslovakia.

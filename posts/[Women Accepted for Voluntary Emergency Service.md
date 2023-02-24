@@ -1,0 +1,1 @@
+The navy volunteer organization for women during World War II, ultimately disbanded in 1972.

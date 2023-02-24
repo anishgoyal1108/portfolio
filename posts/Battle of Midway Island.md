@@ -1,0 +1,1 @@
+First engagement between Japanese and U.S. Navy six months after the Japanese attack on Pearl Harbor in June of 1942. The battle resulted in a U.S. victory.

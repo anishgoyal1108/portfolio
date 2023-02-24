@@ -1,0 +1,1 @@
+June 6, 1944 invasion of German-occupied France by Allied forces. The D Day landings opened up a second front in Europe and marked a major turning point in World War II.

@@ -1,0 +1,1 @@
+Legislation requiring men between the ages of 18 and 35 to register for the draft, later expanded to age 45. It was the first peacetime draft in U.S. history.

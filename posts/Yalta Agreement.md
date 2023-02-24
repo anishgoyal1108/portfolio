@@ -1,0 +1,1 @@
+Agreement negotiated at the 1945 Yalta Conference by Roosevelt, Churchill, and Stalin about the fate of postwar Eastern Europe. The Yalta Agreement did little to ease growing tensions between the Soviet Union and its Western Allies.

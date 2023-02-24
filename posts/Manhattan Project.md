@@ -1,0 +1,1 @@
+Code name for the secret program to develop an atomic bomb. The project was launched in 1942 and directed by the United States with the assistance of Great Britain and Canada.

@@ -1,0 +1,1 @@
+African American airmen who overcame prejudice during World War II. They earned fame escorting U.S. bomber aircraft in Europe and North Africa.

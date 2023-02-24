@@ -1,0 +1,1 @@
+Mexican American group consisting of largely middle-class members that challenged racial discrimination and segregation in public accommodations, engaging in economic boycotts and litigation.

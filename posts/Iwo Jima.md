@@ -1,0 +1,1 @@
+March 1945 battle in which the U.S. captured Iwo Jima, a heavily fortified Japanese island.

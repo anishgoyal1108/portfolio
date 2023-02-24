@@ -1,0 +1,1 @@
+The slogan African Americans used during World War II to state their twin aims to fight for victory over fascism abroad and victory over racism at home.

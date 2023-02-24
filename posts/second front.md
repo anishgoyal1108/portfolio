@@ -1,0 +1,1 @@
+The desire expressed in 1942 by Joseph Stalin for an immediate invasion by U.S., British, and Canadian forces of German-occupied France to take pressure off the Soviet forces fighting the Germans on the eastern front. The attack in Western Europe did not begin until 1944, a fact Stalin resented.

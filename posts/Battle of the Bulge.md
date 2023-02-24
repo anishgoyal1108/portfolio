@@ -1,0 +1,1 @@
+Last German offensive launched in mid-December of 1944, which resulted in a German retreat across the Rhine River back into Germany.

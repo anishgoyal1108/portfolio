@@ -1,0 +1,1 @@
+OpenIntro is a developer and promoter of educational products that are free, transparent, and lower barriers to education.

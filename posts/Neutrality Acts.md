@@ -1,0 +1,1 @@
+Legislation passed between 1935 and 1937 to make it more difficult for the United States to become entangled in overseas conflicts. The Neutrality Acts reflected the strength of isolationist sentiment in 1930s America.
