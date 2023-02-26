@@ -1,0 +1,1 @@
+can take any kind of numerical value

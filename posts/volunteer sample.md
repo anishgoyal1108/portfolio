@@ -1,0 +1,1 @@
+a sample in which people's responses are solicited and only those who *choose*  to participate respond.

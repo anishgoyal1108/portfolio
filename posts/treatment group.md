@@ -1,0 +1,1 @@
+Patients in the treatment group received a stent and medical management. The medical management included medications, management of risk factors, and help in lifestyle modification

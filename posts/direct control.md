@@ -1,0 +1,1 @@
+refers to variables that the researcher can control or make the same

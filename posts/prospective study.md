@@ -1,0 +1,1 @@
+a study that watches for outcomes during the study period and relates this to other factors

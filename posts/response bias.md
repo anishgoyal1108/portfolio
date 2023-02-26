@@ -1,0 +1,1 @@
+Bias that arises from a number of different conditions that cue respondents to provide false or inaccurate answers in a survey or interview.

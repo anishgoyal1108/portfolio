@@ -1,0 +1,1 @@
+a beneficial effect produced by a [[placebo]] drug or treatment attributed to the patient's belief in that treatment

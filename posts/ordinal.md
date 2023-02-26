@@ -1,0 +1,1 @@
+categorical variables whose categories have a natural ordering to them

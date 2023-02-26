@@ -1,0 +1,1 @@
+a number that describes a whole population

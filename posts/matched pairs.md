@@ -1,0 +1,1 @@
+pairs of people are matched on as many variables as possible, so that the comparison happens between very similar cases.

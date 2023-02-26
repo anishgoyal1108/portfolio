@@ -1,0 +1,1 @@
+when there is no evident relationship between two variables

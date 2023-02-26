@@ -1,0 +1,1 @@
+When two variables show some connection with each other

@@ -1,0 +1,1 @@
+when patients are uninformed about whether they are in the [[control group]] or [[treatment group]]

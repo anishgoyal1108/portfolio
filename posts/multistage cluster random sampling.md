@@ -1,0 +1,1 @@
+a sampling method in which you randomly choose clusters of data and employ a secondary sampling method (usually [[simple random sampling]]) to choose a number of individuals from each of those random clusters randomly

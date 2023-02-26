@@ -1,0 +1,1 @@
+a fake treatment given to patients in the [[control group]] of an [[experiment]] to keep the study truly blind

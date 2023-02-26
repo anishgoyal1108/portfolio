@@ -1,0 +1,1 @@
+a single number summarizing a large amount of data

@@ -1,0 +1,1 @@
+a study in which you look backwards at data that have already been collected or generated 

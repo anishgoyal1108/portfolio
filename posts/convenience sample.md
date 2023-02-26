@@ -1,0 +1,1 @@
+a type of bias where units are selected for inclusion in the sample due to convenience

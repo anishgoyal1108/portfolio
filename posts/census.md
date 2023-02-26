@@ -1,0 +1,1 @@
+data collected about an entire population

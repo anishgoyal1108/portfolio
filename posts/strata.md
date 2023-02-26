@@ -1,0 +1,1 @@
+a subset of the population that is being sampled

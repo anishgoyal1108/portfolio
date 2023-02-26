@@ -1,0 +1,1 @@
+another name for [[explanatory variable]] in the context of an [[experiment]]

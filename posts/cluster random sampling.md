@@ -1,0 +1,1 @@
+a sampling method in which you divide a population into clusters and then randomly select some of these clusters as your sample

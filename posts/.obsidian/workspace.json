@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "00155e717a61eb51",
+        "id": "c60667009944bd32",
         "type": "tabs",
         "children": [
           {
-            "id": "edca3fde42579cc0",
+            "id": "ccfe4a29017e4da0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "America Enters World War II.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "025c18012f31bf58",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e01265c587f83dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Victory in World War II.md",
-                "mode": "preview",
+                "file": "Summarizing data.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "61e3cfde13e11d02",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "America Enters World War II.md",
+                "file": "Summarizing data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "America Enters World War II.md",
+                "file": "Summarizing data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "America Enters World War II.md"
+                "file": "Summarizing data.md"
               }
             }
           }
@@ -165,22 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edca3fde42579cc0",
+  "active": "ccfe4a29017e4da0",
   "lastOpenFiles": [
-    "zoo suit riots.md",
-    "America Enters World War II.md",
-    "League of United Latin American Citizens.md",
-    "Victory in World War II.md",
-    "AP United States History.md",
     "Advanced High School Statistics.md",
-    "Holocaust.md",
-    "Nagasaki.md",
-    "Hiroshima.md",
-    "Manhattan Project.md",
-    "Battle of the Bulge.md",
-    "Yalta Agreement.md",
-    "Okinawa.md",
-    "Iwo Jima.md",
-    "Battle of Midway Island.md"
+    "Data collection.md",
+    "Summarizing data.md",
+    "space-launches.png",
+    "stanford-open-policing.png",
+    "income-and-education-in-us-counties.png",
+    "multistage cluster random sampling.md",
+    "pet-names.png",
+    "stratified random sampling.md",
+    "confounding variable.md",
+    "experiment.md",
+    "matched pairs.md",
+    "Figure 1.16.png",
+    "blocks.md",
+    "completely randomized experiment.md",
+    "replication.md",
+    "randomization.md",
+    "direct control.md",
+    "double-blind.md",
+    "placebo effect.md",
+    "categorical variable.md",
+    "placebo.md",
+    "single-blind.md",
+    "levels.md",
+    "factor.md",
+    "observational study.md",
+    "retrospective study.md",
+    "internet-use-and-life-expectancy.png",
+    "cluster random sampling.md",
+    "response bias.md",
+    "Response bias.md",
+    "Figure 1.15.png",
+    "heterogeneous.md",
+    "Figure 1.14.png",
+    "Figure 1.13.png",
+    "Figure 1.12.png"
   ]
 }

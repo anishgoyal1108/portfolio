@@ -1,0 +1,1 @@
+data that is usually based on individual experiences or observations

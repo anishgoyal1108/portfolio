@@ -1,0 +1,1 @@
+groups of individuals in an experiment sharing an identified variable

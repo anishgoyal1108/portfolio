@@ -1,0 +1,1 @@
+the average of a collection of data

@@ -1,0 +1,1 @@
+the entire set of items from which you draw data for a statistical study

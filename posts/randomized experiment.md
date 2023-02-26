@@ -1,0 +1,1 @@
+when individuals/units in an experiment are randomly assigned to a group 

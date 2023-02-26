@@ -1,0 +1,1 @@
+a group of subjects who share a defining characteristic

@@ -1,0 +1,1 @@
+an [[experiment]] in which the subjects/experimental units are randomly assigned to each group

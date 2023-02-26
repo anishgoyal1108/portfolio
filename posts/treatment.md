@@ -1,0 +1,1 @@
+something that researchers administer to experimental units; usually done differently for each unit to determine a causal relationship

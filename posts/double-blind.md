@@ -1,0 +1,1 @@
+the researchers that interact with the subjects *themselves* are unaware of the [[control group|control]] and [[treatment group|treatment]] groups

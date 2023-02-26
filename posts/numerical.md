@@ -1,0 +1,1 @@
+can take a wide range of numerical values

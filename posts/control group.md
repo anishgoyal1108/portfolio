@@ -1,0 +1,1 @@
+Patients in the control group received the same medical management as the treatment group, but they did not receive stents.

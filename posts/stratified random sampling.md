@@ -1,0 +1,1 @@
+researchers divide subjects into subsets called [[strata]] based on characteristics that they share and sample them using another probability sampling method (usually [[simple random sampling|simple random sampling]])

@@ -1,0 +1,1 @@
+When the values of one variable increase as the values of the other variable increase

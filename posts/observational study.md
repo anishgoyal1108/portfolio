@@ -1,0 +1,1 @@
+a type of study in which individuals are observed or certain outcomes are measured; no attempt is made to affect the outcome

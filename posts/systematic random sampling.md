@@ -1,0 +1,1 @@
+a probability sampling method in which elements, with a fixed periodic interval, is selected from a larger population

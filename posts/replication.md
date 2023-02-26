@@ -1,0 +1,1 @@
+the repetition of an experiment or observation in the same or similar conditions

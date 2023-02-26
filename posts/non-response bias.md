@@ -1,0 +1,1 @@
+bias that occurs when survey participants are unwilling or unable to respond to a survey question or an entire survey, decreasing the likelihood that the responses are representative of the entire population

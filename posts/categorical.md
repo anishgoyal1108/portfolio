@@ -1,0 +1,1 @@
+a variable whose responses themselves are categories

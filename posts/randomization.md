@@ -1,0 +1,1 @@
+when patients are randomized into [[treatment group|treatment groups]] to account for variables that cannot be controlled

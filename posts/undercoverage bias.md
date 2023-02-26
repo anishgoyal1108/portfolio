@@ -1,0 +1,1 @@
+occurs when some individuals of the population are inherently less likely to be included in the sample than others, making the sample not representative of the population
